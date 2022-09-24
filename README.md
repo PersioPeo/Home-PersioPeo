@@ -31,3 +31,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
 </div>
+
+</br>
+
+<hr size="10" width="100%">
+
+<section>
+  
+  <div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
+  
+  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  </div>
+</br>
+   <div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=radical" alt="Persio Peo" />
+  </div>
+</br>
+<div align="center">
+ <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PersioPeo&=dracula&theme=radical" />
+    </span></a>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
