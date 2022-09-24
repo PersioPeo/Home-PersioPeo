@@ -1,3 +1,13 @@
+<h2>contact</h2>
+
+<div>
+  <p align="left">
+       <a href="https://linkedin.com/in/persio-pereira" target="blank">
+       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="P" height="30" width="50" /></a>
+<a href="mailto:persiopeo@hotmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="50" /></a>
+  </p>
+</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
