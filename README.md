@@ -1,5 +1,6 @@
 <h2>contact</h2>
 
+
 <div>
   <p align="left">
        <a href="https://linkedin.com/in/persio-pereira" target="blank">
@@ -7,6 +8,12 @@
 <a href="mailto:persiopeo@hotmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="50" /></a>
   </p>
 </div>
+</br>
+
+
+<h2> My Skills </h2>
+
+</br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
