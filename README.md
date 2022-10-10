@@ -26,10 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -49,20 +50,13 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     
-</div>
+</div>  
   
-  
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-  </div>
-</br>
-   <div align="center">
+  <div >
+    <img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=radical" />   
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=radical" alt="Persio Peo" />
   </div>
-</br>
-<div align="center">
- <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PersioPeo&=dracula&theme=radical" />
-    </span></a>
-</div>
+
 </section>
 
 
