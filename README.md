@@ -48,13 +48,13 @@
   
   <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>  
   
   <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=radical" />   
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=radical" alt="Persio Peo" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />   
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=tokyonight" alt="Persio Peo" />
   </div>
 
 </section>
