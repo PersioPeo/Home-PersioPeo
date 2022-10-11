@@ -7,8 +7,8 @@
 <div>
   <p align="left">
        <a href="https://linkedin.com/in/persio-pereira" target="blank">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="P" height="30" width="50" /></a>
-<a href="mailto:persiopeo@hotmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="50" /></a>
+       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="P" height="35" width="50" /></a>
+<a href="mailto:persiopeo@hotmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="35" width="70" /></a>
   </p>
 </div>
 
@@ -31,7 +31,7 @@
 
 </section>
 
-<h2> My Skills </h2>
+<h2> My Skills: Tecnologia Aprenditas.</h2>
 
 </br>
 
