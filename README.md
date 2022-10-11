@@ -31,7 +31,7 @@
 
 </section>
 
-<h2> My Skills: Tecnologia Aprenditas.</h2>
+<h2> My Skills: Tecnologias.</h2>
 
 </br>
 
