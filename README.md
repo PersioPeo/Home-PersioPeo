@@ -1,4 +1,4 @@
-## Olá! Me Chamo Pérsio Pereira.
+## Olá! Me chamo Pérsio Pereira.
 
 
 <h2>contact</h2>
@@ -20,18 +20,15 @@
   
   <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>  
+  <a href="https://github.com/PersioPeo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&langs_count=7&theme=cobalt"/> 
   
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />   
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=tokyonight" alt="Persio Peo" />
   </div>
 
 </section>
 
-<h2> My Skills: Tecnologias.</h2>
+<h2> My Skills</h2>
 
 </br>
 
