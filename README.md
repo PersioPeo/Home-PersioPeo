@@ -1,3 +1,6 @@
+## Olá! Me Chamo Pérsio Pereira.
+
+
 <h2>contact</h2>
 
 
@@ -8,8 +11,25 @@
 <a href="mailto:persiopeo@hotmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="30" width="50" /></a>
   </p>
 </div>
+
 </br>
 
+<hr size="10" width="100%">
+
+<section>
+  
+  <div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>  
+  
+  <div >
+    <img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />   
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=tokyonight" alt="Persio Peo" />
+  </div>
+
+</section>
 
 <h2> My Skills </h2>
 
@@ -39,27 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
   
 </div>
-
-</br>
-
-<hr size="10" width="100%">
-
-<section>
-  
-  <div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PersioPeo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>  
-  
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=PersioPeo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />   
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PersioPeo&theme=tokyonight" alt="Persio Peo" />
-  </div>
-
-</section>
-
-
 
 
 
