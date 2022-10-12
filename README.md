@@ -1,14 +1,13 @@
+
 ## Olá! Me chamo Pérsio Pereira.
 
-
 <h2>contact</h2>
-
 
 <div>
   <p align="left">
        <a href="https://linkedin.com/in/persio-pereira" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="P" height="35" width="50" /></a>
-<a href="mailto:persiopeo@hotmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="35" width="70" /></a>
+      <a href = "mailto:persiopeo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   </p>
 </div>
 
