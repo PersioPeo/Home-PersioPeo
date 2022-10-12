@@ -5,8 +5,7 @@
 
 <div>
   <p align="left">
-       <a href="https://linkedin.com/in/persio-pereira" target="blank">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="P" height="35" width="50" /></a>
+       <a href="https://www.linkedin.com/in/persio-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:persiopeo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   </p>
 </div>
