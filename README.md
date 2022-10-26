@@ -4,7 +4,7 @@
 - Morando na cidade de São Paulo - Capital zona leste próximo ao estadio do Corinthians e do Shopping Aricanduva.
 - Sou Pai de uma linda menina, minha princessa Valentina que ja tem 10 anos, e tutor de uma cadelinha chamada Nina.
 - Uma pessoal curiosa o que me trouxe até aqui, louco por tecnologia e arrumar coisa em casa.
-- hobbies estar com a familia e amigos, jogar Futebol e games e sempre que posso ir até um parque e a missa. 
+- hobbies estar com a família e amigos, jogar Futebol e games e sempre que posso ir até um parque e a missa. 
 </br>
 
 <h2>contact</h2>
