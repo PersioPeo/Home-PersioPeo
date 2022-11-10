@@ -1,5 +1,5 @@
 
-## Olá! Me chamo Pérsio Pereira;
+## Olá! Eu sou Pérsio Pereira;
 - iniciando uma nova jornada de vida pessoal e de carreira.
 - Morando na cidade de São Paulo - Capital zona leste próximo ao estadio do Corinthians e do Shopping Aricanduva.
 - Sou Pai de uma linda menina, minha princessa Valentina que ja tem 10 anos, e tutor de uma cadelinha chamada Nina.
