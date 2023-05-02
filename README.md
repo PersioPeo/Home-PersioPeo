@@ -1,10 +1,9 @@
-
-## Olá! Eu sou Pérsio Pereira;
-- iniciando uma nova jornada de vida pessoal e de carreira.
-- Morando na cidade de São Paulo - Capital zona leste próximo ao estadio do Corinthians e do Shopping Aricanduva.
-- Sou Pai de uma linda menina, minha princessa Valentina que ja tem 10 anos, e tutor de uma cadelinha chamada Nina.
-- Uma pessoal curiosa o que me trouxe até aqui, louco por tecnologia e arrumar coisa em casa.
-- hobbies estar com a família e amigos, jogar Futebol e games e sempre que posso ir até um parque e a missa. 
+## Olá Eu sou o Pérsio Pereira;
+- Iniciando uma nova etapa da minha vida pessoal e profissional.
+- Morando na Cidade de São Paulo - Capital Zona Leste Próximo ao estadio do Corinthians e do Shopping Aricanduva dois grandes da America Latina.
+- Sou divorciado e Pai de uma linda menina a minha amada Valentina e juntos temos uma linda cadelinha a dona da casa Nina.
+- Sou uma pessoa muito curiosa e que gosto muito de tecnologia, arrumar coisa quebradas em casa.
+- Hobbies estar com a família ir aos parques da cidade, reunir com os amigos, jogar futebol, truco e games e sempre acompalhar as missa aos Domingos.
 </br>
 
 <h2>contact</h2>
