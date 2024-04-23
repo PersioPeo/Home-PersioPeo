@@ -1,7 +1,7 @@
 # Olá Eu sou o Pérsio Pereira;
 - Iniciando uma nova etapa da minha vida pessoal e profissional.
 - Morando na Cidade de São Paulo - Capital Zona Leste Próximo ao estadio do Corinthians e do Shopping Aricanduva.
-- Sou divorciado e Pai de uma linda menina a minha amada Valentina e juntos temos uma linda cadelinha a dona da casa Nina.
+- Sou divorciado e Pai de uma linda menina pré adolencente e juntos temos uma linda cadelinha que e acha a dona da casa.
 - Sou uma pessoa muito curiosa e que gosto muito de tecnologia, arrumar coisa quebradas em casa.
 - Hobbies estar com a família ir aos parques da cidade, reunir com os amigos, jogar futebol, truco e games e sempre acompalhar as missa aos Domingos.
 </br>
